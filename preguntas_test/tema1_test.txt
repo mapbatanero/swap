@@ -1,0 +1,17 @@
+<pregunta>
+	<enunciado>¿En que consiste (basicamente) una granja web?</enunciado>
+	<opcionA>Una granja web es la gestion de una granja agraria mediante una pagina web</opcionA>
+	<opcionB>Es una colección de servidores fisicos distribuidos de tal forma que consigue un sistema escalable y con alta disponibilidad</opcionB>
+	<opcionC>Es como se llama al tener un servidor en produccion y otro en desarrollo</opcionC>
+	<opcionD>Una granja web consiste en tener un servidor identico al servidor en producción para que lo sustituya ante cualquier problema</opcionD>
+	<solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado>¿Cuales son problemas relacionados con la disponibilidad de un sitio web mal planificado?</enunciado>
+	<opcionA>El hardware tarde o temprano falla, problemas de programación por casuísticas de uso y servicios comunes con la parte interna de la empresa sobrecargan el servidor para dar el servicio principal</opcionA>
+	<opcionB>Tener poco espacio de almacenamiento, tener pocos recursos de ancho de banda y tener problemas de alimentación eléctrica</opcionB>
+	<opcionC>El hardware tarde o temprano falla, llegada de un alto numero de clientes en un corto periodo de tiempo y tener accesos no autorizados</opcionC>
+	<opcionD>El hardware tarde o temprano falla, problemas de programación por casuísticas de uso y actualizaciones software en la única maquina en producción</opcionD>
+	<solucion>D</solucion>
+</pregunta>
