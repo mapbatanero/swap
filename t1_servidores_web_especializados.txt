@@ -1,0 +1,26 @@
+Lista de servidores WEB con el tipo de servicio al que están optimizados o se llevan mejor.
+
+SOFTWARE  |||  TIPO SERVICIO 
+
+-Apache -> (TODOTERRENO) (El rey está muerto, larga vida al reyy) MODULOS de todo para todo
+	.htaccess file
+	-http/2	
+
+-nginx -> CASI TAN RAPIDO CON ligthttp (DESARROLLO mas rapido que ligttp), SOPORTE              MODULOS 
+	-http/2
+	
+-cherooke -> ROBUSTO, (NO BUSCA SER EL SERVIDOR MAS RAPIDO), CONTENIDO ESTATICO(ngix x10) muy bien MODULOS
+	peor SOPRTE nginx menos CUOTA MERCADO...
+	cheerooke-admin
+	-usar como balanceador de carga
+-ligthttp -> streaming (muy ligero)  VELOCIDAD							MODULOS
+	-DESAROLLO LENTO	
+
+-Apache tomcat--> Java applet servlets
+
+
+-node.js ->Framework    (npm ecosystem)
+  NO HEBRAS - EVENTOS ASINCRONO I/Os NO BLOQUEANTES JS-V8
+	-streaming y BAJA LATENCIA.
+	-JAVASCRIT en el SERVIDOR
+
