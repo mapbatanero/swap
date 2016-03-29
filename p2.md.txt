@@ -1,0 +1,20 @@
+#Practica 2: Clonar maquinas
+
+##2)tar
+###2.1)Habilito usuario root en ambas maquinas
+###2.2)Intentamos copiar carpeta a maquina remota con TAR
+###2.2.1)Error ssh 
+###2.2.2)Permito acceso ssh al usuario "root" (*reiniciar servicio sshd)
+###2.3)Ahora si que realizamos la operacion con TAR
+###Capturas de pantalla resultado
+
+##3)rsync
+###3.1)Compruebo que está instalado rsync - OK
+
+###3.3)Clono carpeta de la maquina swap01 a la maquina swap02 con RSYNC desde la maquina swap02
+###Capturas de pantalla
+
+##4)Claves compartidas
+ssh-copy-id
+
+##5)crontab
