@@ -22,8 +22,6 @@ Repositorio para SWAP en el curso 15-16 GII ETSIIT
 
 ***FIN***
 
----
-
    [busqueda]: <https://www.bing.com/search?q=markdown&form=EDGNTC&qs=PF&cvid=a2c75ee37a644ca8b03e0667a93b6f8f&pq=markdown>
    [chuletario1]: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
    [chuletario2]: <https://warpedvisions.org/projects/markdown-cheat-sheet>
