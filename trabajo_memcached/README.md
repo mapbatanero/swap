@@ -1,4 +1,4 @@
-# "Memcached"
+# "Memcached" ó **sistema de memoria caché distribuida de objetos** para sistemas web
 - ¿Que es?
 - ¿Como se instala?
 - ¿Como se usa?  
