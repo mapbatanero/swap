@@ -1,16 +1,17 @@
-# swap
+# SWAP
 Repositorio para SWAP en el curso 15-16 GII ETSIIT 
-
+---
 
 # MarkDown(Tutoriales, Guias, editores, chuletarios, etc)
 [bing-markdown][busqueda]  
 <http://hipertextual.com/archivo/2013/04/que-es-markdown/>
+
 ### Sintaxis
 - [Markdown][sintaxis]
 - [Multi-MarkDown][multimarkdown]
 
-### Editores     {#editores}
-[editores](#editores) (**hay que confirmar que funciona**)
+### Editores(Apps WEB)     {#editores}
+[editores](#editores) (**hay que confirmar que funciona la referencia interna**)
 - [Dingus][editor1]
 - [Dillinger][editor2] (RECOMENDADO)
 
@@ -29,3 +30,4 @@ Repositorio para SWAP en el curso 15-16 GII ETSIIT
    [multimarkdown]: <http://markdown.es/multimarkdown/>
    [editor1]: <http://daringfireball.net/projects/markdown/dingus>
    [editor2]: <http://dillinger.io/>
+
