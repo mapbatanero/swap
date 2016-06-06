@@ -8,10 +8,12 @@ Repositorio para SWAP en el curso 15-16 GII ETSIIT
 ### Sintaxis
 - [Markdown][sintaxis]
 - [Multi-MarkDown][multimarkdown]
+
 ### Editores     {#editores}
 [editores](#editores) (**hay que confirmar que funciona**)
 - [Dingus][editor1]
 - [Dillinger][editor2] (RECOMENDADO)
+
 ### Chuletarios
 - [Github Adam-p (Muy COMPLETO)][chuletario1]
 - [Markdown extra(referencias cruzadas)][chuletario2]
